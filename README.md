@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/brianmuwaya/ActiveDirectoryLab)
-- [Nessus Essentials Home lab](https://github.com/brianmuwaya/ActiveDirectoryLab)
+- [Nessus Essentials Home lab](https://github.com/brianmuwaya/Nessus-Essentials-Home-Lab)
 <h2>📄 Certifications</h2> 
 
 - [Security+](https://github.com/brianmuwaya/ActiveDirectoryLab)
