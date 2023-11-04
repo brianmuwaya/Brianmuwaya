@@ -19,7 +19,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/bryannryanz
-[youtube]: https://www.youtube.com/channel/UCrGO8EstYSlw04fkdTmLcWQ
+[youtube]: https://www.youtube.com/@bryannryanz/featured
 [instagram]: https://www.instagram.com/bryannryanz/
 [linkedin]: https://linkedin.com/in/brianmuwaya
 
