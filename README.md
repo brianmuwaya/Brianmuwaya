@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab! https://github.com/brianmuwaya/
-- <b>Nessus Essentials Homelab! https://github.com/brianmuwaya/
+- <b>Active Directory Home Lab!
+- <b>Nessus Essentials Homelab!
 
 <h2>📄 Certifications</h2> 
 
-- [Google Cybersecurity Certificate] (https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Certificate]
 <h2>🧑🏼‍🍳 Popular YouTube Videos</h2>
 
 - Tutorial [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
