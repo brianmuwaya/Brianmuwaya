@@ -4,7 +4,8 @@
 
 - [Active Directory Home Lab (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
 - [Nessus Essentials Home lab](https://github.com/brianmuwaya/Nessus-Essentials-Home-Lab)
-<h2>📄 Certifications</h2> 
+- [Nessus Essentials Home lab](https://github.com/brianmuwaya/Nessus-Essentials-Home-Lab)
+- <h2>📄 Certifications</h2> 
 
 - [Security+ (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
 - [Google Cybersecurity Certificate (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
