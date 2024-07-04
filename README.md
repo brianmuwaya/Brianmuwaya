@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
 - [Nessus Essentials Home lab](https://github.com/brianmuwaya/Nessus-Essentials-Home-Lab)
-- [File Permissions in Linux](https://github.com/brianmuwaya/ActiveDirectoryLab)
+- [File Permissions in Linux](https://github.com/brianmuwaya/File-Permissions-in-Linux)
 - <h2>📄 Certifications</h2> 
 
 - [Security+ (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
