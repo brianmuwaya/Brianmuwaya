@@ -6,6 +6,7 @@
 - [Nessus Essentials Home lab](https://github.com/brianmuwaya/Nessus-Essentials-Home-Lab)
 - [File Permissions in Linux](https://github.com/brianmuwaya/File-Permissions-in-Linux)
 - [Vulnerability Assessment Report](https://github.com/brianmuwaya/Vulnerability-Assessment-Report)
+- [PASTA Worksheet Lab](https://github.com/brianmuwaya/VulnerabilityPASTA-Worksheet-Lab)
 - <h2>📄 Certifications</h2> 
 
 - [Security+ (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
