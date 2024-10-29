@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
+- [Active Directory](In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
 - [Nessus Essentials](https://github.com/brianmuwaya/Nessus-Essentials)
 - [File Permissions in Linux](https://github.com/brianmuwaya/File-Permissions-in-Linux)
 - [Vulnerability Assessment Report](https://github.com/brianmuwaya/Vulnerability-Assessment-Report)
