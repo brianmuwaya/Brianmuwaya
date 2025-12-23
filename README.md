@@ -4,7 +4,6 @@
 
 - [Vulnerability Management Program Implementation](https://github.com/brianmuwaya/vulnerability-management-program)
 - [Active Directory](https://github.com/brianmuwaya/Active-Directory)
-- [Vulnerability Assessment](https://github.com/brianmuwaya/Nessus-Essentials)
 - [File Permissions in Linux](https://github.com/brianmuwaya/File-Permissions-in-Linux)
 - [Vulnerability Assessment Report](https://github.com/brianmuwaya/Vulnerability-Assessment-Report)
 - [PASTA Worksheet Lab](https://github.com/brianmuwaya/PASTA-Worksheet-Lab)
