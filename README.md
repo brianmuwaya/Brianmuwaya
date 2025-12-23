@@ -6,7 +6,6 @@
 - [Active Directory](https://github.com/brianmuwaya/Active-Directory)
 - [File Permissions in Linux](https://github.com/brianmuwaya/File-Permissions-in-Linux)
 - [Vulnerability Assessment Report](https://github.com/brianmuwaya/Vulnerability-Assessment-Report)
-- [PASTA Worksheet Lab](https://github.com/brianmuwaya/PASTA-Worksheet-Lab)
 - [Password Generator](https://github.com/brianmuwaya/Password-Generator)
 - <h2>📄 Certifications</h2> 
 
