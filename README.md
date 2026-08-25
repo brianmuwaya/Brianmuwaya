@@ -6,7 +6,7 @@
 - <h2>📄 Certifications</h2> 
 
 - [Security+ (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
-- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/verify/8P3MJJFDX9UI?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Google Cybersecurity Certificate]([https://www.coursera.org/account/accomplishments/verify/8P3MJJFDX9UI?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course](https://www.credly.com/badges/cf6e83a2-5551-4508-a0c1-7f85967afd80/linked_in_profile))
   
 <h2> 🤳 Connect with me:</h2>
 
