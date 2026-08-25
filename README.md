@@ -6,14 +6,12 @@
 - <h2>📄 Certifications</h2> 
 
 - [Security+ (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
-- [Google Cybersecurity Certificate(https://www.coursera.org/account/accomplishments/verify/8P3MJJFDX9UI?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course](https://www.credly.com/badges/cf6e83a2-5551-4508-a0c1-7f85967afd80/linked_in_profile)
+- [Google CyberSecurity Certificate)](https://www.credly.com/badges/cf6e83a2-5551-4508-a0c1-7f85967afd80/linked_in_profile)
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/CyberTjay
 [linkedin]: https://linkedin.com/in/brianmuwaya
