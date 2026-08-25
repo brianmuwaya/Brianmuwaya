@@ -4,7 +4,6 @@
 
 - [Vulnerability Management Program Implementation](https://github.com/brianmuwaya/vulnerability-management-program)
 - [File Permissions in Linux](https://github.com/brianmuwaya/File-Permissions-in-Linux)
-- [Vulnerability Assessment Report](https://github.com/brianmuwaya/Vulnerability-Assessment-Report)
 - [Password Generator](https://github.com/brianmuwaya/Password-Generator)
 - <h2>📄 Certifications</h2> 
 
