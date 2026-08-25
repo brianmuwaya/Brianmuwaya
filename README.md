@@ -3,8 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Vulnerability Management Program Implementation](https://github.com/brianmuwaya/vulnerability-management-program)
-- [File Permissions in Linux](https://github.com/brianmuwaya/File-Permissions-in-Linux)
-- [Password Generator](https://github.com/brianmuwaya/Password-Generator)
 - <h2>📄 Certifications</h2> 
 
 - [Security+ (In progress)](https://github.com/brianmuwaya/ActiveDirectoryLab)
@@ -18,8 +16,6 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/CyberTjay
-[youtube]: https://www.youtube.com/@bryannryanz/featured
-[instagram]: https://www.instagram.com/bryannryanz/
 [linkedin]: https://linkedin.com/in/brianmuwaya
 
 <!--
